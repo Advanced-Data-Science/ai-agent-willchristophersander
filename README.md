@@ -98,8 +98,3 @@ pytest ai_agent_willchristophersander/agent/tests/test_agent.py
 - Rate limiting defaults (12 seconds for Alpha Vantage) are configurable per source.
 - Circuit breaker prevents repeated failures from overwhelming APIs.
 - Logs include enough context for auditability without leaking keys or PII.
-
-## Next Steps
-- Capture API key creation screenshots for Part 3.
-- Run the agent with real credentials to populate `logs/`, `reports/`, and `data/` directories for reporting.
-- Convert `data_management_plan.md` and generated summaries into PDF/HTML deliverables as required by the assignment rubric.
