@@ -1,6 +1,6 @@
 # Financial Market Data Collection Agent
 
-Automated agent that ingests high-signal financial and macroeconomic datasets to monitor volatility across a technology equities portfolio. The system reuses the modular configuration, logging, and quality evaluation practices from the AppleAppSander project while re-targeting the domain to API-driven data collection.
+Automated agent that ingests high-signal financial and macroeconomic datasets to monitor volatility across a technology equities portfolio. 
 
 ## Features
 - **Config-driven orchestration**: JSON configuration specifies APIs, tickers/series, and environment variable bindings for credentials.
